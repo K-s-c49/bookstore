@@ -1,0 +1,67 @@
+[
+    {
+        "id":1,
+        "name":"story-book",
+        "title":"Generate titles for your books and stories with this free book.",
+        "price":0,
+        "category":"Free",
+        "image":"../../public/ban.jpg"
+    },
+    {
+        "id":2,
+        "name":"music-book",
+        "title":"Generate titles for your books and stories with this free book.",
+        "price":20,
+        "category":"music",
+        "image":"../../public/ban.jpg"
+    },
+    {
+        "id":3,
+        "name":"historic-book",
+        "title":"Generate titles for your books and stories with this free book.",
+        "price":0,
+        "category":"Free",
+        "image":"../../public/ban.jpg"
+    },
+    {
+        "id":4,
+        "name":"sports-book",
+        "title":"Generate titles for your books and stories with this free book.",
+        "price":12,
+        "category":"sport",
+        "image":"../../public/ban.jpg"
+    },
+    {
+        "id":5,
+        "name":"logical-story-book",
+        "title":"Generate titles for your books and stories with this free book.",
+        "price":0,
+        "category":"Free",
+        "image":"../../public/ban.jpg"
+    },
+    {
+        "id":6,
+        "name":"cook-book",
+        "title":"Generate titles for your books and stories with this free book.",
+        "price":0,
+        "category":"Free",
+        "image":"../../public/ban.jpg"
+    },
+    {
+        "id":7,
+        "name":"skill-book",
+        "title":"Generate titles for your books and stories with this free book.",
+        "price":0,
+        "category":"Free",
+        "image":"../../public/ban.jpg"
+    },
+    {
+        "id":8,
+        "name":"drowing-book",
+        "title":"Generate titles for your books and stories with this free book.",
+        "price":0,
+        "category":"Free",
+        "image":"../../public/ban.jpg"
+    }
+
+]
