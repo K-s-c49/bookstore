@@ -26,7 +26,7 @@ function Banner() {
           </label>
           <div className="validator-hint hidden">Enter valid email address</div>
         </div>
-        <button className="btn mt-6 btn-secondary">Secondary</button>
+        <button className="btn mt-6 btn-secondary">Get Started</button>
       </div>
       <div className='order-1 w-full md:w-1/2  md:mt-12  flex justify-center space-x-4'>
         <img src="../../public/ban.jpg" className='w-92 h-98 rounded  ' alt="" />
