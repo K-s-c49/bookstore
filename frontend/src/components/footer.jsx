@@ -6,10 +6,10 @@ function Footer() {
             <hr />
             <footer className="footer footer-horizontal footer-center text-base-content rounded p-10 dark:bg-slate-900 dark:text-white">
                 <nav className="grid grid-flow-col gap-4">
-                    <a className="link link-hover">Home</a>
-                    <a className="link link-hover">Course</a>
-                    <a className="link link-hover">Contact</a>
-                    <a className="link link-hover">About</a>
+                    <a href='/'>Home</a>
+                    <a href='Course'>Course</a>
+                    <a href='Contact'>Contact</a>
+                    <a >About</a>
                 </nav>
                 <nav>
                     <div className="grid grid-flow-col gap-4">
@@ -49,7 +49,7 @@ function Footer() {
                     </div>
                 </nav>
                 <aside>
-                    <p>Copyright © {new Date().getFullYear()} - All right reserved by ACME Industries Ltd</p>
+                    <p>Copyright © {new Date().getFullYear()} - All right reserved by <span className='text-pink-500'> khushal singh chundawat</span></p>
                 </aside>
             </footer>
         </div>

@@ -6,8 +6,8 @@ function Banner() {
     <div className='max-w-screen-2xl container mx-auto md:px-20 px-4 flex flex-col md:flex-row my-10 '>
       <div className='order-2 md:order-1 w-full md:w-1/2 mt-12 md:mt-32'>
         <div className='space-y-12'>
-          <h1 className='text-4xl font-blod'>Hello, welcome here ho come learn something <span className='text-pink-500'> new everyday!!!</span></h1>
-          <p className='text-xl font-semibold'>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Officiis earum quasi, sed quia ea dolorem. Corporis veritatis neque ipsa quisquam earum vel cumque velit tempore quo, est magnam, voluptas beatae!</p>
+          <h1 className='text-4xl font-blod'>"Welcome—where continuous learning and growth happen <span className='text-pink-500'> every day."</span></h1>
+          <p className='text-xl font-semibold'>Discover a world of stories, knowledge, and inspiration. Our platform connects readers with a vast collection of books across every genre—whether you're seeking timeless classics, bestsellers, or hidden gems. Explore, read, and grow with a community that celebrates the power of books.</p>
           <label className="input input-bordered validator flex items-center gap-2">
             <svg className="h-[1em] opacity-50" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
               <g

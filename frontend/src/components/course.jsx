@@ -25,7 +25,7 @@ function Course() {
       <div className='mt-28 dark:mt-16 items-center justify-center text-center'>
         <h1 className='text-2xl  md:text-4xl'>We're delighted to have you{" "} <span className='text-pink-500'> here! :)</span> </h1>
         <p className='mt-12'>
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Veritatis, omnis, nam illo alias atque a porro consectetur eaque voluptas autem tempore pariatur? Praesentium quaerat libero atque, dolores illum similique. Quia.
+        "Stories that speak to the heart, ideas that challenge the mind—books that stay with you forever." 
         </p>
         <Link to="/">
           <button className='mt-6 bg-pink-500 text-white px-4 py-2 rounded-md hover:bg-pink-700 duration-300'>Back</button>
